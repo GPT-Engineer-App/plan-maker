@@ -1,12 +1,12 @@
 # plan-maker
 
 Please create a basic todo app with the following features:
-- An input field at the top to add new todo items
+- An input field at the top to add new todo items 
 - A list below the input field to display the added todo items
 - Each todo item should have a checkbox to mark it as completed
 - A way to delete todo items
 - A header with a title like "My Todo App"
-- Use Chakra UI components to style the app
+- Use the Shadcn component library to style the app
 
 ## Collaborate with GPT Engineer
 
